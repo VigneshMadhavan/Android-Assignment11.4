@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A11.4</string>
+
+    <string name="download">Download</string>
+    <string name="label">Enter the image url</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="defaultURL">http://api.androidhive.info/progressdialog/hive.jpg</string>
+
+
+</resources>
